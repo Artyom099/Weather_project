@@ -1,2 +1,2 @@
-# Weather_app
+# Weather_project
 This is my first Django web-app
